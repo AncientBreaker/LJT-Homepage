@@ -24,7 +24,7 @@ Research Experience
 - **Research Intern**, Shanghai AI Lab, June 2023 – December 2023
   - Advised by Prof. Yu Cheng.
 
-Research Interests
+Research Interests & Skills
 ======
 - Natural Language Processing (NLP) and Machine Learning (ML)
 - LLM Reasoning and Reinforcement Learning
